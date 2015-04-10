@@ -73,7 +73,7 @@ chomp $who;
 
 my $payload = {
 	'revision'	=> $ARGV[1],
-	'url'		=> $url,
+	'url'		=> http://victorio.uit.no/langtech/trunk/langs/fkv,
 	'author'	=> $who,
 	'log'		=> $log,
 };
